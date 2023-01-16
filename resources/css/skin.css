@@ -44,11 +44,11 @@
 
 .thumbBox {
 	border-color:	#f0edea;
-	border-width:	1px;
+	border-width:	7px;
 }
 .thumbBox	img {
 	border-color:	#2c2a2a;
-	border-width:	1px;
+	border-width:	3px;
 }
 
 .thumbBox	img:hover {
